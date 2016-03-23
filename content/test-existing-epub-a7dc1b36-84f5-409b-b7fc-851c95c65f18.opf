@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">test-existing-epub-c2454993-be28-46a7-9b8f-e49c2466577d</dc:identifier>
+    <dc:title>test existing epub</dc:title>
+      <date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="publication">2016-3-23</date>
+</metadata>
+  <manifest><item href="test-existing-epub-c6b6f357-12c6-42f7-aaca-229d9f00a9de-nav.html" id="test-existing-epub-c6b6f357-12c6-42f7-aaca-229d9f00a9de-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html" id="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html"></itemref></spine>
+</package>
