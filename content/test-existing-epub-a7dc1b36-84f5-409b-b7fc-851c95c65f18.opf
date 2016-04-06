@@ -8,6 +8,6 @@
     <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:property="lrmi:useRightsUrl">http://creativecommons.org/licenses/by/3.0/</meta>
     <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2016-3-23</meta>
 </metadata>
-  <manifest><item href="test-existing-epub-c6b6f357-12c6-42f7-aaca-229d9f00a9de-nav.html" id="test-existing-epub-c6b6f357-12c6-42f7-aaca-229d9f00a9de-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html" id="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <manifest><item href="test-existing-epub-c6b6f357-12c6-42f7-aaca-229d9f00a9de-nav.html" id="test-existing-epub-c6b6f357-12c6-42f7-aaca-229d9f00a9de-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html" id="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="exercises-45b86f49-8223-4230-a6f2-687e569dbe26.html" id="exercises-45b86f49-8223-4230-a6f2-687e569dbe26.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-740d3a37-d292-436a-9be8-28e5252a73b6.html"></itemref></spine>
 </package>
